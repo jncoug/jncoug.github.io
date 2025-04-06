@@ -1,89 +1,70 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joseph Harris's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Joseph Harris  
+Software Engineering Student, BYU-Idaho 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jncoug@gmail.com">jncoug@gmail.com</a>  
+| Rexburg, ID  
 </div>
 
+## Currently  
+Seeking a software engineering internship for 2025/2026.  
 
-## Currently
+### Specialized In  
+**Languages:** Kotlin, Java, Python, C#, SQL  
+**Frameworks/Tools:** Android Studio, .NET Core, Flask, MySQL, Git  
+**Concepts:** OOP, Data Structures, Mobile Development, Database Design  
 
-Standing on the shoulders of giants
+## Education  
 
-### Specialized in
+`2023-Present`  
+__Brigham Young University - Idaho__  
+- Bachelor of Science in Software Engineering (Anticipated Fall 2026)  
+- Relevant Coursework: Programming with Classes, Data Structures, Applied Programming  
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2016`  
+__Pullman High School__  
+- High School Diploma  
 
+## Programming Experience  
 
-### Research interests
+**Kotlin/Java**  
+- Developed cross-platform mobile apps using Kotlin Multiplatform Mobile (MVP Rentals)  
+- Integrated Google Sign-In/Sheets APIs and SQLDelight for local databases  
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Python**  
+- Built projects with Flask, Tkinter, and Docker (Decagon Devices internship)  
 
+**C#**  
+- Designed class-based solutions in .NET Core (BYU-I coursework)  
 
-## Education
+**SQL**  
+- Created schemas and queries in MySQL Workbench/SQLDelight  
 
-`1654-1660`
-__The King's School, Grantham.__
+## Employment History  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2022-Present`  
+__Mobile Application Developer__, MVP Rentals, Menan, ID  
+- Sole developer for KMM app; reduced API latency by 30%  
+- Implemented Google authentication and real-time data sync  
 
-- Sizar
+`2023`  
+__Custodian__, BYU-Idaho & AAA Custodial Services  
+- Maintained facility cleanliness while balancing academic workload  
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2020-2022`  
+__Portable Toilet Technician__, MVP Rentals, Menan, ID  
+- Optimized service routes using GPS tracking, improving efficiency by 25%  
 
-- Fellow
+`2016`  
+__Software Intern__, Decagon Devices, Pullman, WA  
+- Debugged Python applications and contributed to Tkinter GUI development  
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+## Leadership  
+`2016-2018`  
+__Mission Leader Over Kosovo Area__, Church of Jesus Christ of Latter-Day Saints (Albania/Kosovo)  
+- Directed operations for 10+ missionaries across cities in Kosovo  
+- Led 50+ member congregation as branch president  
